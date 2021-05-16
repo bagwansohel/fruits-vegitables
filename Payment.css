@@ -1,0 +1,22 @@
+h1{
+color: darkblue;
+}
+label{
+font-size: 20px;
+font-style:italic;
+}
+.Conform{
+padding:20px;
+border-radius:20px 20px;
+text-align: center;
+font-style: italic;
+
+}
+#buy{
+    border-radius: 50px 50px;
+    padding: 15px;
+    font-style: italic;
+    margin-top: 30px;
+    background-color: indigo;
+    font-size: 20px;
+}

@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: darkblue;
+}
+div{
+    border: 2px solid salmon;
+    border-radius: 50px 50px;
+    width: 500px;
+    text-align:center;
+    padding: 10px;
+    margin-bottom:20px;
+}
+.Cap{
+
+    font: outline;
+    font-size: 18px;
+    
+}
+.input{
+    padding:10px;
+    border-radius:50px 50px;
+    box-shadow:none;
+
+}
+#save{
+    font-style: italic;
+    padding: 20px;
+    background-color: indigo;
+    border-radius:50px 50px;
+    font-size:20px;
+}
